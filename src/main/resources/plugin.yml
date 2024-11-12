@@ -1,0 +1,5 @@
+name: RepRegen
+version: ${project.version}
+main: net.drman.repregen.RepRegen
+depend: [ MassiveCore, WorldGuard ]
+softdepend: [ AdvanceEnchantments, Quest ]
